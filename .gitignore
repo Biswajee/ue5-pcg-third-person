@@ -1,0 +1,17 @@
+# log files
+*.log
+
+# ignore compressed & unused assets
+*.zip
+
+# Generated directories
+Intermediate/
+Saved/
+
+# Unpacked assets
+simple-table-and-chair/
+simple-wood-cabin/
+
+# Asset binaries
+*.uasset
+
